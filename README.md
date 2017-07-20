@@ -1,6 +1,8 @@
 # java9-meetup
 
 Demo charla [Java 9](https://www.meetup.com/jugargentina/events/241336891/).
+- [Java 9.pptx](https://github.com/jugargentina/java9-meetup/blob/master/slides/Java%209.pptx)
+- [Java 9.pdf](https://github.com/jugargentina/java9-meetup/blob/master/slides/Java%209.pdf)
 
 ## requerimientos
 
